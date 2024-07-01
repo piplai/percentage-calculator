@@ -21,7 +21,7 @@ input, input:before, input:after {
 } 
 
 body {
-  background-color: #ffffff;
+  background-color: #808080;
   color: #fff;
   display: flex;
   font-family: 'Muli', sans-serif;
@@ -43,7 +43,7 @@ h2, h6 {
 }
 
 .container {
-  background-color: #ffffff;
+  background-color: #808080;
   box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
   padding: 20px;
   width: 50vw;
