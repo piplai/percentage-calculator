@@ -572,6 +572,20 @@ input[type=number] {
   }
 }
 
+
+/* CSS Modified */
+body{ background: #FFF !important; color: #2a2a2a;}
+.container{ background: #FFF; box-shadow: none;}
+.d-none{ display: none !important;}
+.method-container{ background: #f8f6ff; border: 1px solid #ebe5ff;}
+.modern{ background: #FFF; border-radius: 8px; border: 1px solid #ebe5ff;}
+.convert{ background: #f8f6ff; color: #2a2a2a; border: 1px solid #ebe5ff; }
+.convert:hover{ background: #ebe5ff;}
+.switch{ background: #f8f6ff; border: 1px solid #ebe5ff; }
+/* CSS Modified */
+
+
+
 /* MEDIA QUERIES */
 
 /* Ipad Pro, Ipad, Low width Desktop, Landscape Mobile */
