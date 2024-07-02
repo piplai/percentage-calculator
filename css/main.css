@@ -582,6 +582,7 @@ body{ background: #FFF !important; color: #2a2a2a;}
 .convert{ background: #f8f6ff; color: #2a2a2a; border: 1px solid #ebe5ff; }
 .convert:hover{ background: #ebe5ff;}
 .switch{ background: #f8f6ff; border: 1px solid #ebe5ff; }
+.container{ padding: 0 !important;}
 /* CSS Modified */
 
 
@@ -591,7 +592,7 @@ body{ background: #FFF !important; color: #2a2a2a;}
 /* Ipad Pro, Ipad, Low width Desktop, Landscape Mobile */
 @media screen and (max-width: 1550px) and (min-width: 781px) {
   .container {
-    width: 95%
+    width: 100%
   }
 
   .tablet-column span {
@@ -606,7 +607,7 @@ body{ background: #FFF !important; color: #2a2a2a;}
   }
 
   .container {
-    width: 95%
+    width: 100%
   }
 
   .author {
